@@ -63,8 +63,10 @@
        
        
        /*
-       Print the value of all variable
+       Print the value of all variables
        */
+
+  
        
        
         
