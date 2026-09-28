@@ -1,3 +1,15 @@
+
+/*
+    1. Simple Calculator
+Input two numbers and print:
+● Addition
+● Subtraction
+● Multiplication
+● Division
+*/
+
+
+
 #include <stdio.h>
 int main(){
     int a,b,add,sub,mul,div;
