@@ -15,5 +15,5 @@ int main()
         printf("%d ",i*i);
         i++;
     }
-
+    return 0;
 }
